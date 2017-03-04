@@ -3,13 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.mavenproject1;
+package javaapplication1;
 
 /**
  *
  * @author Piotr
  */
-public class Main {
+public class JavaApplication1 {
+
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
         System.out.println("master");
     }
